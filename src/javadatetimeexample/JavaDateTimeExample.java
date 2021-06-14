@@ -49,21 +49,6 @@ public class JavaDateTimeExample {
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("D/M/YYYY");
         System.out.println(dtf.format(ld));
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
     }
     
 }
